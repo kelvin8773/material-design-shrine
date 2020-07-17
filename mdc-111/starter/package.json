@@ -20,5 +20,11 @@
     "sass-loader": "^7.1.0",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.4.3"
+  },
+  "dependencies": {
+    "@material/button": "^7.0.0",
+    "@material/ripple": "^7.0.0",
+    "@material/select": "^7.0.0",
+    "@material/textfield": "^7.0.0"
   }
 }
