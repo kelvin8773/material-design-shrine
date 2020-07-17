@@ -22,9 +22,11 @@
   "dependencies": {
     "@material/button": "^6.0.0",
     "@material/drawer": "^6.0.0",
+    "@material/elevation": "^7.0.0",
     "@material/image-list": "^6.0.0",
     "@material/list": "^6.0.0",
     "@material/ripple": "^6.0.0",
+    "@material/typography": "^7.0.0",
     "material-components-web": "^6.0.0"
   }
 }
